@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
-#define WIFI_SSID "Totalplay-76AA"       // nombre de la red 2.4 ghz
-#define WIFI_PASSWORD "76AADB2F9hd6mTss" // contraseña de la red
+#define WIFI_SSID ""     // nombre de la red 2.4 ghz
+#define WIFI_PASSWORD "" // contraseña de la red
 
 void conecta()
 {

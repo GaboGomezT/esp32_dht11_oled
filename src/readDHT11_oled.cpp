@@ -1,6 +1,4 @@
 #include <DFRobot_DHT11.h>
-// #include <Adafruit_SSD1306.h>
-// #include <WiFi.h>
 #include <Laika_FirebaseESP32.h>
 #include "setDisplay.h"
 #include "conecta.h"
