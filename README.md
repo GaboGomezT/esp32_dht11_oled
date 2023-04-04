@@ -2,7 +2,7 @@
 
 Project generado con PlatformIO usando la placa ESP32 y el framework Arduino
 
-Usando el sensor DHT11 y una pantalla Oled leyemos y desplegamos datos de temperatura y humedad.
+Usando el sensor DHT11 y una pantalla Oled leemos y desplegamos datos de temperatura y humedad.
 
 > Antes de compilar el proyecto debes llenar los credenciales en el archivo [conecta.cpp](src/conecta.cpp)
 
