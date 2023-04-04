@@ -7,8 +7,8 @@
 DFRobot_DHT11 DHT;
 #define DHT11_PIN 2
 
-// #define FIREBASE_HOST "https://casa1-cd48e-default-rtdb.firebaseio.com/" // // databaseUrl SIN https:// y SIN "/" al final
-// #define FIREBASE_AUTH "hjTfQMulHMUDmbOqGldky3WeDz6L7gxKCF54gllA"         // secreto de la base de datos
+// #define FIREBASE_HOST "" // // databaseUrl SIN https:// y SIN "/" al final
+// #define FIREBASE_AUTH ""         // secreto de la base de datos
 
 int temp;
 int hum;
